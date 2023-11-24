@@ -482,6 +482,11 @@ Following exams only: CISSP, CCSP, SSCP, CSSLP, CGRC, ISSAP, ISSEP and ISSMP \
 Your first exam attempt must be administered on or before December 31, 2023 \
 Deal ends: 30th November
 
+APIsec University – Become an API Security Expert \
+https://www.apisecuniversity.com
+50% off Exam ASCP and/or CASA with code: BLACKFRIDAY \
+Deal ends: 26th November
+
 ## Hardware:
 
 KSEC LABS (Red Team Tools, Locksmith, Hacker Gadgets) \
